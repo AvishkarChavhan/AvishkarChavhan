@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I’m Avishkar Chavhan  
+💻 3rd Year Computer Engineering Student | Code & Build  
+🚀 Skilled in MERN stack | Exploring AI, backend systems  
+🎯 Love solving real-world problems through tech   
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/avishkar-chavhan/))  
+
 
 <!--
 **AvishkarChavhan/AvishkarChavhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
