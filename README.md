@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Avishkar Chavhan
 
-💻 3rd Year Computer Engineering Student | Code & Build  
+💻 4th Year Computer Engineering Student | Code & Build  
 🚀 Skilled in **MERN Stack** | Exploring **AI** & **Backend Systems**  
 🎯 Passionate about solving real-world problems through technology  
 
